@@ -6,15 +6,18 @@
 * Structure of a C++ program
   1. Standard library section
   2. Main function section
-  3. Function body section
+  3. Function body section  
   For example, `Helllo World` program
   ```
-  #include <iostream>
+  #include <iostream>                //section 1
   using namespace std;
 
-  int main(int argc, char *argv[]) {
-    cout << "Hello World!" << endl;
+  int main(int argc, char *argv[])   //section 2
+  { 
+    cout << "Hello World!" << endl;  //section 3
     return 0;
   }
   ```
-
+** 
+* Reference
+** [What is the basic structure of a C++ program?](https://www.educative.io/edpresso/what-is-the-basic-structure-of-a-c-program)
