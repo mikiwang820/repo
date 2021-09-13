@@ -7,6 +7,7 @@
 1. Standard library section
 2. Main function section
 3. Function body section  
+
 For example, `Helllo World` program  
 
     ```
