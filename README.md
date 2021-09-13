@@ -18,6 +18,6 @@ For example, `Helllo World` program
     return 0;
   }
   ```
- 
+*  `int main(int argc, char *argv[]){}` is called by operating system (OS)  when the program is executed by the computer
 ## Reference
 * [What is the basic structure of a C++ program?](https://www.educative.io/edpresso/what-is-the-basic-structure-of-a-c-program)
