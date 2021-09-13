@@ -8,7 +8,7 @@
 2. Main function section
 3. Function body section  
 
-For example, `Helllo World` program  
+    For example, `Helllo World` program  
 
     ```
     #include <iostream>                //section 1
