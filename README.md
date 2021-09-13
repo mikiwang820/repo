@@ -8,16 +8,16 @@
 2. Main function section
 3. Function body section  
 For example, `Helllo World` program
-  ```
-  #include <iostream>                //section 1
-  using namespace std;
-
-  int main(int argc, char *argv[])   //section 2
-  { 
-    cout << "Hello World!" << endl;  //section 3
-    return 0;
-  }
-  ```
+    ```
+    #include <iostream>                //section 1
+    using namespace std;
+  
+    int main(int argc, char *argv[])   //section 2
+    { 
+      cout << "Hello World!" << endl;  //section 3
+     return 0;
+    }
+   ```
 *  `int main(int argc, char *argv[]){}` is called by operating system (OS)  when the program is executed by the computer
 *  The `return` keyword tells the program to return a value to the function `int main`
 ## Reference
