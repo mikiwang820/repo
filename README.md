@@ -19,5 +19,6 @@ For example, `Helllo World` program
   }
   ```
 *  `int main(int argc, char *argv[]){}` is called by operating system (OS)  when the program is executed by the computer
+*  The `return` keyword tells the program to return a value to the function `int main`
 ## Reference
 * [What is the basic structure of a C++ program?](https://www.educative.io/edpresso/what-is-the-basic-structure-of-a-c-program)
