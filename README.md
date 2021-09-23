@@ -4,9 +4,10 @@
 ### Evolution of programming languages  
   ![computer-languages](https://user-images.githubusercontent.com/61928785/133008954-d4922157-a8a6-4826-82fd-a1b6bf43217e.png)
 ### Structure of a C++ program
-1. Standard library section
-2. Main function section
-3. Function body section  
+1. Standard library section  
+   `#include` is a specific preprocessor command that effectively copies and pastes the entire text of the file, specified between the angle brackets, into the source code.
+3. Main function section
+4. Function body section  
 
     For example, `Helllo World` program  
 
