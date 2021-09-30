@@ -1,6 +1,7 @@
 # repo
 ## Overview of C++
-**Object-oriented programming (OOP) is easier to design and maintain for programmers**
+* Object-oriented programming (OOP) is easier to design and maintain for programmers
+* Here apply gcc as my compiler which turns high-level programming language into machine code
 ### Evolution of programming languages  
   ![computer-languages](https://user-images.githubusercontent.com/61928785/133008954-d4922157-a8a6-4826-82fd-a1b6bf43217e.png)
 ### Structure of a C++ program
