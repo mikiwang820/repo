@@ -27,7 +27,7 @@
 ## Practice
 ### Bubble Sort
 * Bubble sort is a sorting algorithm, which is based on the idea of repaetedly comparing pairs of adjacent elements and then swapping their position if they exist in the wrong order. At the end, the array should be in acending order  
-* How it works (just an example)
+* How it works (just an example)  
   ![bubble sort](https://miro.medium.com/max/776/1*7QsZkfrRGhAu5yxxeDdzsA.png)
 
 ## Reference
