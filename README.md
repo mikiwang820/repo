@@ -24,5 +24,12 @@
    ```
 *  `int main(int argc, char *argv[]){}` is called by operating system (OS)  when the program is executed by the computer
 *  The `return` keyword tells the program to return a value to the function `int main`
+## Practice
+### Bubble Sort
+* Bubble sort is a sorting algorithm, which is based on the idea of repaetedly comparing pairs of adjacent elements and then swapping their position if they exist in the wrong order. At the end, the array must be acending order
+* How it works (just an example)
+  ![bubble sort](https://miro.medium.com/max/776/1*7QsZkfrRGhAu5yxxeDdzsA.png)
+
 ## Reference
 * [What is the basic structure of a C++ program?](https://www.educative.io/edpresso/what-is-the-basic-structure-of-a-c-program)
+* [An Introduction to Bubble Sort](https://medium.com/karuna-sehgal/an-introduction-to-bubble-sort-d85273acfcd8)
