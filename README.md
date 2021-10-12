@@ -26,9 +26,9 @@
 *  The `return` keyword tells the program to return a value to the function `int main`
 ## Function
 * What is function?  
-** Gather program statements in order to approach a certain work
+**Gather program statements in order to approach a certain work
 * Why we need function?  
-** We are allowed to call functions, instead of repeating the same section in a program
+**We are allowed to call functions, instead of repeating the same section in a program
 ** It is much easier to manage a program when it is divided into pieces by function
 ## Practice
 ### Bubble Sort
