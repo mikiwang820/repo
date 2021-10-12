@@ -24,6 +24,12 @@
    ```
 *  `int main(int argc, char *argv[]){}` is called by operating system (OS)  when the program is executed by the computer
 *  The `return` keyword tells the program to return a value to the function `int main`
+## Function
+* What is function?
+** Gather program statements in order to approach a certain work
+* Why we need function?
+** We are allowed to call functions, instead of repeating the same section in a program
+** It is much easier to manage a program when it is divided into pieces by function
 ## Practice
 ### Bubble Sort
 * Bubble sort is a sorting algorithm, which is based on the idea of repaetedly comparing pairs of adjacent elements and then swapping their position if they exist in the wrong order. At the end, the array should be in acending order  
