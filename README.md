@@ -38,7 +38,7 @@ Gather program statements in order to approach a certain work
 * External variable  
   If a function want to use a variable that is located after it, it is essential to claim like this `extern int c`
 * Static variable
-  Static variable is stored in the memory until the whole program completely finishes
+  A static variable remains in the memory until the program is running
   `static int c`
 ## Practice
 ### Bubble Sort
