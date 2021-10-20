@@ -44,3 +44,4 @@ Gather program statements in order to approach a certain work
 * [What is the basic structure of a C++ program?](https://www.educative.io/edpresso/what-is-the-basic-structure-of-a-c-program)
 * [An Introduction to Bubble Sort](https://medium.com/karuna-sehgal/an-introduction-to-bubble-sort-d85273acfcd8)
 * [Difference between Local variable and Global Variable](https://www.javatpoint.com/local-variable-vs-global-variable)
+* [Varoable scope](https://openhome.cc/Gossip/CGossip/Scope.html)
