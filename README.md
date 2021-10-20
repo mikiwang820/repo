@@ -30,12 +30,17 @@ Gather program statements in order to approach a certain work
 * Why we need function?  
   * We are allowed to call functions, instead of repeating the same section in a program  
   * It is much easier to manage a program when it is divided into pieces by function
+## Variable
+* Local variable  
+  It is decleared within a funcation block
+* Global  variable  
+  The value of a global variable can be changed accidently as it can be used by any function in the program
 ## Practice
 ### Bubble Sort
 * Bubble sort is a sorting algorithm, which is based on the idea of repaetedly comparing pairs of adjacent elements and then swapping their position if they exist in the wrong order. At the end, the array should be in acending order  
 * How it works (just an example)  
   ![bubble sort](https://miro.medium.com/max/776/1*7QsZkfrRGhAu5yxxeDdzsA.png)
-
 ## Reference
 * [What is the basic structure of a C++ program?](https://www.educative.io/edpresso/what-is-the-basic-structure-of-a-c-program)
 * [An Introduction to Bubble Sort](https://medium.com/karuna-sehgal/an-introduction-to-bubble-sort-d85273acfcd8)
+* [Difference between Local variable and Global Variable](https://www.javatpoint.com/local-variable-vs-global-variable)
