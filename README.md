@@ -37,6 +37,9 @@ Gather program statements in order to approach a certain work
   The value of a global variable can be changed accidently as it can be used by any function in the program
 * External variable  
   If a function want to use a variable that is located after it, it is essential to claim like this `extern int c`
+* Static variable
+  Static variable is stored in the memory until the whole program completely finishes
+  `static int c`
 ## Practice
 ### Bubble Sort
 * Bubble sort is a sorting algorithm, which is based on the idea of repaetedly comparing pairs of adjacent elements and then swapping their position if they exist in the wrong order. At the end, the array should be in acending order  
