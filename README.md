@@ -40,6 +40,9 @@ Gather program statements in order to approach a certain work
 * Static variable
   A static variable remains in the memory until the program is running
   `static int c`
+## Notes of LeetCode
+* `*a` means the first element of the a array
+* `vector` is a dynamic array with varible size. However, an array has an fixed capacity and it is essential to specify the size of the array, therefore, sometimes it is inconvenient and wasteful
 ## Practice
 ### Bubble Sort
 * Bubble sort is a sorting algorithm, which is based on the idea of repaetedly comparing pairs of adjacent elements and then swapping their position if they exist in the wrong order. At the end, the array should be in acending order  
