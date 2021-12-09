@@ -13,15 +13,15 @@ for (int i=0; i<count; i++)
 {
 cout<<array[i]<<" ";
 }
-for (int i1=0; i1<count; i1++)
+for (int i1=0; i1<(count-1); i1++) //0-6
 {
-	for (int point=0; point<(count-1); point++)
+	for (int point=i1; point<count; point++) //0: 1-6, 1:2-6, ... , 6: 7 
 	{
-		if (array[point]>array[(point+1)])
+		if (array[i1]>array[point])
 		{
-			temp = array[point];
-			array[point] = array[point+1];
-			array[(point+1)] = temp;
+			temp = array[i1];
+			array[i1] = array[point];
+			array[point] = temp;
 		
 		}
 	}
